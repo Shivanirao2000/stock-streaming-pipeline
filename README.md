@@ -146,7 +146,7 @@ The processed rows land in PostgreSQL immediately:
 
 Streamlit app at **http://localhost:8501**, auto-refreshing every 3 seconds via `st.rerun()`. Shows per-ticker price metrics with green/red delta indicators and 5-tick rolling averages, plus a Plotly time-series chart of the last 50 ticks across all tickers.
 
-<!-- INSERT: Screenshot of full dashboard — metrics row + price history chart -->
+![Live Stock Tracker dashboard](assets/dashboard.png)
 
 Live in action:
 
