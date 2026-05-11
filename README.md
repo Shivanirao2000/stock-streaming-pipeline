@@ -2,7 +2,19 @@
 
 > End-to-end streaming data pipeline — from Kafka ingestion to live visualization — built entirely in Python with async processing and containerized infrastructure.
 
-<!-- INSERT: Screen recording of the full pipeline running — producer terminal + dashboard side by side, ~15 seconds -->
+
+
+
+
+
+
+https://github.com/user-attachments/assets/c0c68a32-b059-4e69-929e-708616c8ac82
+
+
+
+
+
+
 
 ---
 
