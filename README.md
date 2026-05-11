@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/c0c68a32-b059-4e69-929e-708616c8ac82
 ### 1. Clone & Enter
 
 ```bash
-git clone https://github.com/AbhignaVKumar/stock-streaming-pipeline.git
+git clone https://github.com/Shivanirao2000/stock-streaming-pipeline.git
 cd stock-streaming-pipeline
 ```
 
